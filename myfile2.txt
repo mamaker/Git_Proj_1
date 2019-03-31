@@ -1,0 +1,2 @@
+myfile2
+Git Test file 2. modified this line by adding words
