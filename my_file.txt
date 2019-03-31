@@ -1,3 +1,4 @@
 my_file
 Git Test file 1
 Added a line 
+Added another Line
